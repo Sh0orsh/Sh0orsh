@@ -30,14 +30,6 @@ My interests include computer vision, machine learning, RAG-based applications, 
 - Contributed to the development of an internal RAG system
 - Worked on document retrieval and AI-assisted workflows
 
-### 🚀 Projects
-
-I'm currently preparing public demonstrations of my work:
-
-- Python Data Automation
-- RAG Document Assistant
-- Computer Vision Tracking
-
 ### 📫 Contact
 
 Open to freelance projects, research collaborations, and part-time opportunities.
